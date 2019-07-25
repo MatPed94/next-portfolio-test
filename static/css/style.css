@@ -1,0 +1,41 @@
+body {
+    background: #fafafa;
+}
+
+#masthead {
+    min-height:600px;
+    padding:1em 0em;
+}
+
+#footer {
+    padding: 5em 0em;
+}
+
+#content {
+    padding:8em 0em;
+}
+
+#navHeader {
+    margin-top: 1rem;
+}
+
+#navHeader span {
+    text-transform: uppercase;
+    letter-spacing: 2.5px;
+    font-weight: normal;
+}
+
+#sideHeader {
+    font-weight: normal; 
+    margin-bottom: 0px; 
+    margin-top: 3em;
+}
+
+#sideHeader .sub.header {
+    margin-top: 1em;
+}
+
+#bannerPic {
+    margin-top: 2em;
+}
+
