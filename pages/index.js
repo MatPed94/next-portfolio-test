@@ -6,7 +6,7 @@ const Index = () => (
         <Grid.Column only="computer tablet" width={2}></Grid.Column>
         <Grid.Column computer={10} tablet={10} mobile={16}>
           <Header id='sideHeader' as='h1'>
-            ASPIRERENDE PRODUCT MANAGER LOKALISERET I AALBORG, DENMARK.
+            {'ASPIRERENDE PRODUCT MANAGER LOKALISERET i aalborg'.toUpperCase()}
             <Header.Subheader><strong>Scroll ned for at se udvalgte projekter.</strong></Header.Subheader>
           </Header>
         </Grid.Column>
